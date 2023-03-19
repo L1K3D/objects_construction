@@ -1,7 +1,3 @@
-﻿//FESA - Faculdade Engenheiro Salvador Arena
-//Heitor Santos Ferreira - RA: 081230042
-//Engenharia de Computação - Segundo Semestre - EC2
-
 using System;
 
 namespace atividade_class_carro
@@ -44,13 +40,6 @@ namespace atividade_class_carro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("FESA - Faculdade Engenheiro Salvador Arena");
-            Console.WriteLine("Heitor Santos Ferreira - RA: 081230042");
-            Console.WriteLine("Engenharia de Computação - Segundo Semetre - EC2");
-            Console.WriteLine();
-            Console.WriteLine("-----------------------------------------------------");
-            Console.WriteLine();
-
             //Criando primeiro objeto da classe "Carro" e adotando os métodos Acelerar e depois parar
 
             //Criando objeto da classe "Carro"
